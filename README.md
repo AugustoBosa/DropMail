@@ -19,7 +19,7 @@ To address this issue, a reliable solution is to use a temporary email address, 
 - 🌐 [Language Support](#language-support)
 - ⚙️ [Installation](#installation)
 - 📖 [Usage](#usage)
-  - 📺 [Demonstration] (#video)  
+  - 📺 [Demonstration](#video)  
 - 🚀 [Deployment](#deployment)
 - ✨ [Features](#features)
 - 📚 [Documentation](#documentation)
