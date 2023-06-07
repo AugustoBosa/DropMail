@@ -1,4 +1,5 @@
 # DropMail - Temporary Email Generator
+[![us](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/AugustoBosa/DropMail/blob/main/README.md)
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/AugustoBosa/DropMail/blob/main/README.pt-br.md)
 
 > This is a challenge by Coodesh.
