@@ -6,7 +6,8 @@
 
 This front-end React application is developed as part of the Coodesh challenge. DropMail provides users with a simple solution to generate temporary email accounts using the DropMail API.
 
-Check it working: [DropMail - Temporary Email Generator Demo](future link here)
+Check it working: [DropMail - Temporary Email Generator Demo](https://dropmail-tempmail.netlify.app/)
+![image](https://github.com/AugustoBosa/DropMail/assets/115903598/dde21f3c-ec45-4f04-88e2-a8dde2d47e07)
 
 > **Note:** Please note that the deployed demo is provided for demonstration purposes and may not reflect real-time data or functionality.
 
@@ -83,7 +84,7 @@ Stay tuned for the upcoming video demonstration showcasing the features and func
 
 ## 🚀 Deployment <a name="deployment"></a>
 
-The frontend is deployed on Netlify (link to be created).
+The frontend is deployed on Netlify (https://dropmail-tempmail.netlify.app/).
 
 Please note that these deployment links are provided as examples and may not be accessible or available in the future.
 
