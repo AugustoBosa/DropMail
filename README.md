@@ -130,7 +130,7 @@ The DropMail API provides a temporary email service and is currently in a "publi
 - Both GET and POST methods can be used. For GET, add URL-encoded parameters to the URL as a query string: `/api/graphql/MY_TOKEN?query=...&variables=...` ("variables" should be a JSON object). POST accepts `application/x-www-form-urlencoded` and `application/json` Content-Types. If no "Content-Type" header is provided, the body is expected to be in JSON.
 
 
->>For more information, please refer to the [DropMail API documentation](https://dropmail.me/api/).
+>For more information, please refer to the [DropMail API documentation](https://dropmail.me/api/).
 
 ## 🤝 Contributing <a name="contributing"></a>
 
