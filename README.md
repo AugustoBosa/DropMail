@@ -21,7 +21,6 @@ To address this issue, a reliable solution is to use a temporary email address, 
 - 🌐 [Language Support](#language-support)
 - ⚙️ [Installation](#installation)
 - 📖 [Usage](#usage)
-  - 📺 [Demonstration](#video)  
 - 🚀 [Deployment](#deployment)
 - ✨ [Features](#features)
 - 📚 [Documentation](#documentation)
@@ -77,10 +76,6 @@ Using the DropMail - Temporary Email Generator application is simple and conveni
 Enjoy using DropMail to generate temporary email accounts and manage your email communications effortlessly!
 
 > If you experience any CORS related problem use an browser extension like https://cors-anywhere.herokuapp.com to solve it.
-
-### 📺 Demonstration <a name="video"></a>
-
-Stay tuned for the upcoming video demonstration showcasing the features and functionality of DropMail.
 
 ## 🚀 Deployment <a name="deployment"></a>
 
