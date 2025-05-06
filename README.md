@@ -160,19 +160,16 @@ I would like to express my gratitude to the creators of the Coodesh challenge fo
 
 ## ⚠️ Project Maintenance <a name="project-maintenance"></a>
 
-The project is actively maintained and may undergo rework and updates to address any potential bugs or issues that may arise in the future. At the moment, no bugs have been reported.
+This code maintenance has been suspended.
 
-Please note that the deployment links provided may become offline or inaccessible in the future due to various reasons. If you encounter any difficulties accessing the application or have any inquiries, feel free to reach out to me for assistance.
+Please note that the deployment links provided may become offline or inaccessible in the future due to various reasons. 
 
-Your feedback and contributions are valuable in improving the project, so please don't hesitate to report any bugs or suggest enhancements if you come across them. Together, we can make DropMail - Temporary Email Generator even better!
 
 ## 📞 Contact <a id="contact"></a>
 
 For any inquiries or questions, feel free to contact me:
 
 📧 - dev.augustobosa@gmail.com
-
-![image](https://github.com/AugustoBosa/Food-Explorer-Frontend/assets/115903598/347bc18a-8e27-48eb-835f-1411f3229916) - +55 48 9.9953-1842
 
 ![image](https://github.com/AugustoBosa/Food-Explorer-Frontend/assets/115903598/7451cd53-6201-42ed-bf24-4838179ab9c9) - [AugustoBosa](https://github.com/AugustoBosa)
 
