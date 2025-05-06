@@ -155,11 +155,10 @@ Gostaria de expressar minha gratidão aos criadores do desafio da Coodesh por me
 
 ## ⚠️ Manutenção do Projeto <a name="manutenção-do-projeto"></a>
 
-O projeto é mantido ativamente e pode passar por reformulações e atualizações para solucionar possíveis bugs ou problemas que possam surgir no futuro. No momento, nenhum bug foi relatado.
+A manutenção deste projeto foi suspensa.
 
-Observe que os links de implantação fornecidos podem ficar offline ou inacessíveis no futuro devido a vários motivos. Se você encontrar dificuldades ao acessar o aplicativo ou tiver alguma dúvida, não hesite em entrar em contato comigo para obter assistência.
+Observe que os links de implantação fornecidos podem ficar offline ou inacessíveis no futuro devido a vários motivos
 
-Seus comentários e contribuições são valiosos para melhorar o projeto, portanto, não hesite em relatar quaisquer bugs ou sugerir melhorias caso encontre algum. Juntos, podemos tornar o DropMail - Gerador de E-mail Temporário ainda melhor!
 ## 📞 Contato <a name="contato"></a>
 
 Se você tiver alguma dúvida ou quiser entrar em contato, sinta-se à vontade para enviar um e-mail para [augustobosa.dev@gmail.com](mailto:augustobosa.dev@gmail.com).
